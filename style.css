@@ -1,0 +1,39 @@
+*{
+border: solid black;
+}
+
+body {
+    box-sizing: border-box;
+    display: inline-block;
+    text-align: center;
+    margin: -70px;
+    border: solid black;
+
+}
+
+img {
+    width: 300px;
+    height: auto;
+    margin-left: auto;
+    margin-right: auto;
+    border: 5px dotted blue;
+   
+
+}
+
+.list {
+    padding: auto;
+    background-color: aqua;
+    display: inline-block;
+    margin: 0 auto;
+    border: 5px dotted green;
+}
+p {
+    background-color: aqua;
+    margin: 90px;
+    padding: 10px;
+    border: 5px dotted black;
+}
+h1 {
+    margin: 90px;
+}
